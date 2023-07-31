@@ -1,0 +1,21 @@
+.Nav {
+  text-align: center;
+}
+.Nav ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+.Nav ul li {
+  width: 40px;
+  margin: 60px;
+}
+
+.Nav ul li a {
+  text-decoration: none;
+}
+
+.search-b a:hover {
+  background-color: green;
+  color: white;
+}
